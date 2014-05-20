@@ -64,18 +64,22 @@ I'm not saying anything negative about this. Last night I browsed through some n
 * Austin, TX - [Jonathan Simmons](//www.jonathanpsimmons.com)
 * Somewhere in Utah - [Kyle Wayne Benson](//kylewaynebenson.com)
 
-###Hola
-
-* Spain (*I think*) - [miguelcm](//www.miguelcm.com/about)
 
 ###Nice to Meet You
 
 * Los Angeles, CA - [Rafe Goldberg](//rafegoldberg.com)
 
-
 ###Well, Hello.
 
-* Philadelphia, PA [Zoe Rooney](//zoerooney.com)
+* Philadelphia, PA - [Zoe Rooney](//zoerooney.com)
+
+###Bonjour!
+
+* Point Park, PA - [Ligaya Scaff](//ligayascaff.com)
+
+###Hola
+
+* Spain (*I think*) - [miguelcm](//www.miguelcm.com/about)
 
 ###Ciao
 
