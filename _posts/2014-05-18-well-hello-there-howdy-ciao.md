@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Well, Hello There. Howdy, Ciao!"
 categories: blog
 location: Seattle
