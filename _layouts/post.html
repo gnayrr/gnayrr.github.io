@@ -1,0 +1,22 @@
+---
+layout: default
+mod: light
+---
+<article>
+{% if page.cover %}
+<img src="/assets/img/{{ page.cover }}" />
+{% endif %}
+<header>
+  <h2>{{ page.title }}</h2>
+  {% if page.subtitle %}
+    <p>{{ page.subtitle }}</p>
+  {% endif %}
+  {% if page.description %}
+    <p>{{ page.description }}</p>
+  {% endif %}
+  <address>
+    <time pubdate datetime="{{ page.date | date: "%Y-%m-%-d" }}" title="{{ page.date | date: "%m/%-d/%Y" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.location %} &hyphen; {{ page.location }}{% endif %}</time>
+  </address>
+</header>
+{{ content}}
+</article>

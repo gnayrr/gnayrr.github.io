@@ -1,0 +1,33 @@
+# Build settings
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - smart # typographic substitutions with SmartyPants
+permalink: pretty
+
+# Global settings
+timezone: America/Los_Angeles
+encoding: utf-8
+
+# Site settings
+title: gnayrr
+author: gnayrr
+email: gnayrr@gmail.com
+description: "I'm Lee. This is my website."
+baseurl: "www.gnayrr.com/"
+url: "http://www.gnayrr.com"
+
+# Site attributes
+license_cc_name: "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+license_cc_short: "CC BY-SA 4.0"
+license_cc_url: "creativecommons.org/licenses/by-sa/4.0"
+
+
+# Page defaults
+
+defaults:
+-
+  scope:
+    path: ""
+  values:
+    layout: "post"
