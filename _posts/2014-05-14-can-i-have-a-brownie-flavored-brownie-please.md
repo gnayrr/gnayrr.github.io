@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Can I Have a Brownie Flavored Brownie, Please
 location: Seattle
 categories: blog
