@@ -15,7 +15,7 @@ mod: light
     <p>{{ page.description }}</p>
   {% endif %}
   <address>
-    <time pubdate datetime="{{ page.date | date: "%Y-%m-%-d" }}" title="{{ page.date | date: "%m/%-d/%Y" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.location %} &hyphen; {{ page.location }}{% endif %}</time>
+    <time pubdate datetime="{{ page.date | date: "%Y-%m-%-d" }}" title="{{ page.date | date: "%m/%-d/%Y" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.location %} - {{ page.location }}{% endif %}</time>
   </address>
 </header>
 {{ content}}
