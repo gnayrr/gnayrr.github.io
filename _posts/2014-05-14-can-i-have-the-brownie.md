@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can I Get the Brownie?"
+title: "Can I Have the Brownie?"
 subtitle: "Why you can’t make assumptions about everyday things"
 location: Seattle
 categories: blog
