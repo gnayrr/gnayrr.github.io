@@ -41,4 +41,4 @@ I didn't share the idea during the discussion because it felt too good to be ori
 
 I didn't end up sharing the door idea with my group, and our project ended up being about an application to facilitate trades between the surviving civilizations. 
 
-That wasn't my idea. But I wouldn't be surprise my door idea becomes a reality in my lifetime. The toaster stayed the same for a long time until [someone changed everythingg](//basheertome.com/hue).
+That wasn't my idea. But I wouldn't be surprise my door idea becomes a reality in my lifetime. The toaster stayed the same for a long time until [someone changed everything](//basheertome.com/hue).
