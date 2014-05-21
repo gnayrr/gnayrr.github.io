@@ -113,7 +113,7 @@ Spain (*I think*) - [miguelcm](//www.miguelcm.com/about)
 
 * Italy - [Simone Guglielmini](//iwantobeafootballplayer.com)
 
-* Rotterdam, The Netherlands - [ANOUCK STEENKEN](//anoucksteenken.com)
+* Rotterdam, The Netherlands - [Anouck Steenken](//anoucksteenken.com)
 
 ###Ahoy!
 
