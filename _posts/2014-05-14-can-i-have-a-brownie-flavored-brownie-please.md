@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Can I Have a Brownie Flavored Brownie, Please
+subtitle: Why you can’t make assumptions about everyday things
 location: Seattle
 categories: blog
 ---
@@ -8,14 +9,19 @@ categories: blog
 Things that don't really have a flavor:
 
 * Tofu
+
 * Rice cake
+
 * Marshmallow
 
 Things that have tons of flavor:
 
 * Coffee
+
 * Cake
+
 * Chocolate
+
 * **BROWNIES**
 
 When I walked by the chocolate store on the corner of my block today, I decided to get a brownie. I went in to the store, did the deed, then returned to my apartment. The world tells you to enjoy the small things in life, so I held off on biting in to the brownie right there in the elevator up to my floor.

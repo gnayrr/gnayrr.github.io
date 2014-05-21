@@ -10,9 +10,8 @@ layout: default
         <ul>
           {% for post in site.categories.blog %}
           <li>
-            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-            <!-- <p>{{ post.date | date: "%b %-d, %Y" }}</p> -->
-            {{ post.excerpt | truncatewords: 42 }}
+            <h3><a href="{{ post.url }}" title="{{ post.date | date: "%b %-d, %Y" }}">{{ post.title }}</a></h3>
+            <p>{{ post.subtitle }}</p>
           </li>
           {% endfor %}
         </ul>
@@ -28,7 +27,7 @@ layout: default
         <ul>
           {% for post in site.categories.essay %}
           <li>
-            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <p>{{ post.subtitle }}</p>
           </li>
           {% endfor %}
@@ -40,14 +39,14 @@ layout: default
     {% if site.categories.story %}
     <tr id="stories" class="story">
       <td>
-        <h5>Stories</h5>
+        <h5>Selected Stories</h5>
       </td>
       <td>
         <ul>
           {% for post in site.categories.story %}
           <li>
-            <h4><a href="//{{ post.link }}" title="Read at epitome.io">{{ post.title }}</a></h4>
-            <p>by {{ post.author }}</p>
+            <h3><a href="//{{ post.link }}" title="Read at epitome.io">{{ post.title }}</a></h3>
+            <address>by {{ post.author }}</address>
           </li>
           {% endfor %}
         </ul>
@@ -63,9 +62,7 @@ layout: default
         <ul>
           {% for post in site.categories.project %}
           <li>
-            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-            <!-- <p>{{ post.date | date: "%b %-d, %Y" }}</p> -->
-            <p>{{ post.description }}</p>
+            <h3><a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a></h3>
           </li>
           {% endfor %}
         </ul>
@@ -79,16 +76,14 @@ layout: default
       <td>
         <ul>
           <li>
-            <h5><a href="mailto:{{ site.email }}" target="_blank">Send Me an Email</a></h5>
-            <p>This is the best way to reach me</p>
+            <h5><a href="mailto:{{ site.email }}" target="_blank">lee@gnayrr.com</a></h5>
+            <!-- <p>This is the best way to reach me</p> -->
           </li>
           <li>
-            <h5><a href="//twitter.com/gnayrr">Follow me on Twitter &#64;gnayrr</a></h5>
-            <p>I very rarely tweet</p>
+            <h5><a href="//twitter.com/gnayrr">&#64;gnayrr</a></h5>
           </li>
           <li>
-            <h5><a href="mailto:{{ site.email }}?subject=Coffee" target="_blank">Let’s Meet for Coffee</a></h5>
-            <p>If you're in the Seattle area, let’s meet in person</p>
+            <h5><a href="mailto:{{ site.email }}?subject=Coffee%20Me" target="_blank">meet up for coffee</a></h5>
           </li>
         </ul>
       </td>

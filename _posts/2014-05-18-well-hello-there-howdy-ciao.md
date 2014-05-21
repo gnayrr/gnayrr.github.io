@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Well, Hello There. Howdy, Ciao!"
+subtitle: Collection of grettings on the web
 categories: blog
 location: Seattle
 ---
@@ -15,53 +16,77 @@ I'm not saying anything negative about this. Last night I browsed through some n
 
 ###Hello
 
+
 * Hull, U.K - [Harry Copeman](//harrycopeman.com)
+
 * Nottingham, U.K - [Seth Warburton](//internet-inspired.com)
+
 * London, England - [wearegoat](//wearegoat.com)
+
 * London, England - [Deep](//www.deep.co.uk)
+
 * Bangalore, India - [Jithin Velayudhan](//iamjithin.me)
+
 * Moscow, Russia - [Made by Vadim](//madebyvadim.com)
+
 * Sydney, Australia - [Steve Chan](//www.chanified.com)
+
 * Wisconsin, U.S - [Andrew Verboncouer](//www.averbs.com)
+
 * San Francisco, CA - [Nic Stauber](//nicstauber.com)
+
 * San Francisco, CA - [Rob Young](//www.eisforeffort.com)
+
 * Lyon, France - [Akaru](//www.akaru.fr)
 
 
 ###Hello There!
 
-* New York City - [Mili Kuo](//milikuo.com)
+
+* 
+New York City, NY - [Mili Kuo](//milikuo.com)
+
 
 
 ###Hallo!
 
-* Switzerland - [Roland Dill](//www.rolanddill.com)
+* 
+Switzerland - [Roland Dill](//www.rolanddill.com)
+
 
 ###Hey There!
 
 * Cedar Rapids, IA - [Will Lenzen Jr.](//willlenzenjr.com/about-will)
+
 * New York, NY - [Sue Lee](//itssue.com)
 
 ###Hello. Bonjour.
 
-* New York, NY - [AREA 17](//www.area17.com)
+* 
+New York, NY - [AREA 17](//www.area17.com)
 
 ###Hi There!
 
 * Bangkok, Thailand - [buatoom](//buatoom.com)
+
 * Amsterdam, The Netherlands - [Cristiana Bardeanu](//84colors.com)
 
 ###Hi!
 
 * Plymouth, U.K - [Lizzie Seymour](//lizz.es)
+
 * Toronto, Canada - [Heather Payne](//heatherpayne.ca)
 
 ###Howdy.
 
 * Mumbai, India- [Arun Pattnaik](//arunpattnaik.com)
+
 * Columbus, Ohio - [Steve Zeidner](//stevezeidner.com/about)
+
 * Brooklyn, NY - [Jeff Rogers](//howdyjeff.com/about)
+
 * Austin, TX - [Jonathan Simmons](//www.jonathanpsimmons.com)
+
 * Somewhere in Utah - [Kyle Wayne Benson](//kylewaynebenson.com)
 
 
@@ -71,28 +96,34 @@ I'm not saying anything negative about this. Last night I browsed through some n
 
 ###Well, Hello.
 
-* Philadelphia, PA - [Zoe Rooney](//zoerooney.com)
+* 
+Philadelphia, PA - [Zoe Rooney](//zoerooney.com)
 
 ###Bonjour!
 
-* Point Park, PA - [Ligaya Scaff](//ligayascaff.com)
+* 
+Point Park, PA - [Ligaya Scaff](//ligayascaff.com)
 
 ###Hola
 
-* Spain (*I think*) - [miguelcm](//www.miguelcm.com/about)
+* 
+Spain (*I think*) - [miguelcm](//www.miguelcm.com/about)
 
 ###Ciao
 
 * Italy - [Simone Guglielmini](//iwantobeafootballplayer.com)
+
 * Rotterdam, The Netherlands - [ANOUCK STEENKEN](//anoucksteenken.com)
 
 ###Ahoy!
 
-* Londrina e Região, Brasil - [Lucas Perdidão](//perdidao.net)
+* 
+Londrina e Região, Brasil - [Lucas Perdidão](//perdidao.net)
 
 ###Welcome
 
-* Santa Monica, CA - [Nikki Galvan](//www.thecreativepm.com)
+* 
+Santa Monica, CA - [Nikki Galvan](//www.thecreativepm.com)
 
 
 In the gluten-free words of modern web developers, *thanks for stopping by* ([Piper Lawson](//piperlawson.com)). This entry was *steam-pumped...and kept alive with tea and hugs,* ([Simon Collison](//colly.com)) and *made in the USA* ([Charlie Waite](//www.charliewaite.me)).
