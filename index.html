@@ -1,91 +1,24 @@
 ---
 layout: default
 ---
-  <table>
-    <tr id="blog" class="blog">
-      <td>
-        <h5>Blog</h5>
-      </td>
-      <td>
-        <ul>
-          {% for post in site.categories.blog %}
-          <li>
-            <h3><a href="{{ post.url }}" title="{{ post.date | date: "%b %-d, %Y" }}">{{ post.title }}</a></h3>
-            <p>{{ post.subtitle }}</p>
-          </li>
-          {% endfor %}
-        </ul>
-      </td>
-    </tr>
-
-    {% if site.categories.essay %}
-    <tr id="essays" class="essay">
-      <td>
-        <h5>Essays</h5>
-      </td>
-      <td>
-        <ul>
-          {% for post in site.categories.essay %}
-          <li>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{ post.subtitle }}</p>
-          </li>
-          {% endfor %}
-        </ul>
-      </td>
-    </tr>
-    {% endif %}
-
-    {% if site.categories.story %}
-    <tr id="stories" class="story">
-      <td>
-        <h5>Selected Stories</h5>
-      </td>
-      <td>
-        <ul>
-          {% for post in site.categories.story %}
-          <li>
-            <h3><a href="//{{ post.link }}" title="Read at epitome.io">{{ post.title }}</a></h3>
-            <address>by {{ post.author }}</address>
-          </li>
-          {% endfor %}
-        </ul>
-      </td>
-    </tr>
-    {% endif %}
-    
-    <tr id="projects" class="project">
-      <td>
-        <h5>Projects</h5>
-      </td>
-      <td>
-        <ul>
-          {% for post in site.categories.project %}
-          <li>
-            <h3><a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a></h3>
-          </li>
-          {% endfor %}
-        </ul>
-      </td>
-    </tr>
-
-    <tr id="contact" class="contact">
-      <td>
-        <h5>Contact</h5>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <h5><a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a></h5>
-            <!-- <p>This is the best way to reach me</p> -->
-          </li>
-          <li>
-            <h5><a href="//twitter.com/gnayrr">&#64;gnayrr</a></h5>
-          </li>
-          <li>
-            <h5><a href="mailto:{{ site.email }}?subject=Coffee%20Me" target="_blank">meet up for coffee</a></h5>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<section class="project">
+  <!-- <h4>Projects</h4> -->
+  <ul>
+    {% for post in site.categories.project %}
+    <li>
+      <h4>&#x2192; <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a></h4>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+<section class="blog">
+  <!-- <h4>Blog</h4> -->
+  <ul>
+    {% for post in site.categories.blog %}
+    <li>
+      <h4><a href="{{ post.url }}" title="{{ post.date | date: "%b %-d, %Y" }}">{{ post.title }}</a></h4>
+      <p class="subtitle">{{ post.subtitle }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
