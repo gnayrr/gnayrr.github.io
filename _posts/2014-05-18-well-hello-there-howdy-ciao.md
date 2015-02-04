@@ -7,7 +7,7 @@ location: Seattle
 ---
 
 
-I discovered a trend lately: many designers or developers who maintain a web presence use the same tone and diction. It's this relaxed but competent, casually professional, slightly ironic persona; not authentic in any real sense, but somehow artisanal. I would guess 2014 is when I first became aware of this shift.
+I discovered a trend lately: many designers or developers who maintain a web presence use the same tone and diction. It's this relaxed but competent, casually professional, slightly ironic persona; not authentic in any real sense, but somehow artisanal. I would guess 2004 is when I first became aware of this shift.
 
 I'm not saying anything negative about this. Last night I browsed through some notable personal/portfolio websites, and I present to you, the smorgasbord of greetings on the web.
 
